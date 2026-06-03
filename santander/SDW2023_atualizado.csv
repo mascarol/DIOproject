@@ -1,0 +1,4 @@
+UserID,Name,Account_Number,Account_Agency,Card_Number,Card_Limit,Segmento,News_Message,Sugestao_Produto
+1,Ana Silva,1001-X,1,4004-1111,1500.0,Acessível,"Olá, Ana Silva! Comece já a construir seu futuro com opções de investimento acessíveis e um plano financeiro adaptado ao seu perfil.",Planos de investimento para iniciantes
+2,Carlos Souza,2002-Y,1,4004-2222,2500.0,Acessível,"Olá, Carlos Souza! Comece já a construir seu futuro com opções de investimento acessíveis e um plano financeiro adaptado ao seu perfil.",Planos de investimento para iniciantes
+3,Mariana Lima,3003-Z,1,4004-3333,5000.0,Intermediário,"Olá, Mariana Lima! Seu limite está muito bom. Que tal aproveitar produtos de investimento com liquidez e estabilidade para proteger seu patrimônio?",CDBs e previdência
